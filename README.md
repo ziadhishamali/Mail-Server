@@ -1,2 +1,2 @@
-# Mail-Server
+# Mail Server
 It's a mail server application built using Java with the help of design patterns, which handles emails sent and received by users of this app. and have a lot of the capabilities of the familiar mail servers like Gmail or Yahoo with the ability to send and view attachments to the email. It also has the add friend feature and filtering of the emails according to from, subject or content and automatic categorization of received emails according to from, subject or content according to the user preferences.
